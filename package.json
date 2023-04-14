@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ECOMMERCE PLATFORM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnvsriharsha/ecommerce.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Sri Harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnvsriharsha/ecommerce/issues"
+  },
+  "homepage": "https://github.com/vnvsriharsha/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.1",
+    "sequelize": "^6.31.0"
+  }
+}
